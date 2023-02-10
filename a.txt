@@ -1,4 +1,1 @@
 Hello git
-Hello c
-Hello c++
-Hahaha
